@@ -52,7 +52,6 @@ MOMS Cookie (Management Of Morning – Secretary : Cookie)는 바쁜 아침을 �
 ## 👤 담당 역할
 
 - **STM32**STM에서 알람이 울리면 조명 및 보일러가 켜지고.
-- 또한 실내 습도가 일정 수준으로 떨어지면 가습기가  가동
 - **ESP32를 이용해 STM32** Wi-Fi 기반 통신 구조 설계 및 명령 송수신 처리
 
 ---
