@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# -Intel-6--MOMS-cookie
 =======
 # MOMS Cookie: 현대인의 바쁜 일상을 완벽하게 해주는 엄마같은 비서
 
